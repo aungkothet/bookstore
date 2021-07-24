@@ -33,3 +33,29 @@ Lesson Overview 22/07/2021
         - font-family
         - font-size 
         - text-align
+        
+Lesson Overview 23-Jul-2021
+-formatting
+    -  <b> - Bold text
+    -  <strong> - Important text
+    -  <i> - Italic text
+    -  <em> - Emphasized text
+    -  <mark> - Marked text
+    -  <small> - Smaller text
+    -  <del> - Deleted text
+    -  <ins> - Inserted text
+    -  <sub> - Subscript text
+    -  <sup> - Superscript text
+- Quotation
+    - <blockquote>
+    - <q>
+    - <abbr>
+    - <address>
+    - <cite>
+    - <bdo>
+- How to write Comments 
+- Colors
+    - color
+    - background-color
+    - border-color
+    
