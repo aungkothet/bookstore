@@ -59,3 +59,38 @@ Lesson Overview 23-Jul-2021
     - background-color
     - border-color
     
+ Lesson Overview 24-Jul-2021
+- Css
+    - inline 
+    - internal
+    - external
+- tags 
+    - style
+-css Property
+    - padding
+    - margin
+    
+    
+ Lesson Overview 25-Jul-2021
+
+- tags
+   - a
+   - button ( still remain many)
+
+- absolute url vs relative url
+- make link with image 
+- attributes
+    - href
+    - target 
+    - mailto:
+    - tittle ( in a tag)
+    - onclick
+    - id
+- link colors 
+    - visited
+    - hover
+    - link
+    - active
+- link bookmark ( give id to any tag and call with #value)
+
+
