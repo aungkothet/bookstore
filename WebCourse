@@ -102,4 +102,73 @@ Lesson Overview 26-Jul-2021
     - img
     - map
     - area
+    
+ Lesson Overview 27-07-2021
+
+- table
+- colspan
+- rowspan
+attributes
+- id
+
+css
+- give css to id
+- border-collapse
+- border-spacing
+
+tags
+    - table
+    - caption
+    - tr
+    - td
+    - th
+
+Lesson Overview 29-07-2021
+
+- table
+- colspan
+- rowspan
+attributes
+- id
+
+css
+- give css to id
+- border-collapse
+- border-spacing
+
+tags
+    - table
+    - caption
+    - tr
+    - td
+    - th
+
+Lesson Overview 30-07-2021
+- list
+- tags
+    - ul
+    - ol
+    - dl
+    - li
+    - dt
+    - dd
+- live coding section 1
+
+Lesson Overview 1-08-2021
+- lesson recap
+- class
+    - The class name is case sensitive!
+    - The class attribute can be used on any HTML element.
+- id
+    - unique id for an HTML element.
+    -
+
+Lesson Overview 2-08-2021
+- block level elements
+- inline elements
+- tags
+    - div
+
+Lesson Overview 3-08-2021
+- live coding section 2
 
